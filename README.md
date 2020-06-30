@@ -1,5 +1,5 @@
 # Hello world golang
-Projeto teste Go Langague com Docker
+Projeto teste Golang com Docker
 
 ## Como gerar uma imagem
 ```bash
